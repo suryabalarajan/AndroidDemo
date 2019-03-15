@@ -1,0 +1,359 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Setting</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="profile">PROFILE</string>
+    <string name="profile_name">Suryadevi Balarajan</string>
+    <string name="name_subtext">Chicago,IL | 224 277 2160 | suryabalarajan@gmail.com</string>
+
+    <string name="education">EDUCATION</string>
+    <string name="degree_1">Master\'s in Information Technology and Management</string>
+    <string name="univ_1">Illinois Institute of Technology, Chicago, IL</string>
+    <string name="completed_date_1"> May 2018</string>
+    <string name="degree_2">Bachelor\'s in Engineering</string>
+    <string name="univ_2">Anna University, Chennai, India</string>
+    <string name="completed_date_2"> April 2011</string>
+
+    <string name="skills">SKILLS</string>
+    <string name="colon"> : </string>
+    <string name="domain">Domain</string>
+    <string name="domain_names">Android Application Development</string>
+    <string name="technologies">Technologies</string>
+    <string name="technology_names">Java, Android SDK, MySQL, JavaScript, GitHub</string>
+    <string name="development_eniv">Development Environment</string>
+    <string name="eniv_names">Android Studio, Eclipse IDE</string>
+
+    <string name="work_exp">PROFESSIONAL EXPERIENCES</string>
+    <string name="desgn_1">Software Engineer - Android Mobile</string>
+    <string name="company_1">Digital Factory, Chicago, IL</string>
+    <string name="work_summary_1">Involved in updating the existing libraries files with Android
+        version 8.0 and above • Working with Geo-fencing and Micro-fencing libraries for Android
+        mobile.</string>
+    <string name="desgn_2">Android Engineer</string>
+    <string name="company_2">Geval6 Inc, Hoffman Estates, IL</string>
+    <string name="work_summary_2">Involved in complete Software Development Lifecycle(SDLC) –
+        Analysis, development, testing, deployment and enhancement of the code • Translated product
+        requirements into design specifications • Collaborated with Database Engineers to setup
+        servers and retrieve data from them.</string>
+    <string name="desgn_3">Mobile App Engineer</string>
+    <string name="company_3">Ravindra Foods Private Ltd., Chennai, India</string>
+    <string name="work_summary_3">Multithreading, database handling, asynchronous networking with
+        Java backend • Translated requirements and mock ups into fully functional codes • Prepared
+        documents, flowcharts, layouts.</string>
+    <string name="desgn_4">Mobile App Engineer</string>
+    <string name="company_4">Trimex Industries Private Ltd., Chennai, India</string>
+    <string name="work_summary_4">Partnered with graphic designer to help define and implement UI
+        improvements • Developed location based applications for Android mobiles and tablets •
+        Involved in Unit Testing, System Testing and User Acceptance Testing.</string>
+    <string name="desgn_5">Android App Engineer</string>
+    <string name="company_5">Zylog Systems Ltd., Chennai</string>
+    <string name="work_summary_5">Modified existing software to adapt it to new hardware • Involved
+        in bug fixing throughout the code • Integrated QR-Code reader in the application.</string>
+    <string name="desgn_6">Android Application Developer</string>
+    <string name="company_6">O\'Clock Software Private Ltd., Chennai, India</string>
+    <string name="work_summary_6">Utilized XML and JSON to parse, display and navigate through large
+        quantities of data • Integrated 3rd party libraries including ActionBarSherlock, SlidingMenu
+        , Facebook • Supervised fellow juniors </string>
+    <!--<string name="title_activity_main">MainActivity</string>-->
+
+    <string name="projects">PROJECTS</string>
+    <string name="bulletpoint"> • </string>
+    <string name="proj_1"><b><i>Healthcare:</i></b> The app takes registrations from users, treats
+        and monitors their health condition in clinics, vaccination programs and other health camps.
+        It will act as a public health record system, where all the data are stored digitally.
+        </string>
+    <string name="proj_2"><b><i>GTDApp:</i></b> The app is a powerful task manager where the user
+        can create a task based either on a location or time. Location services and Google maps were
+        implemented.</string>
+    <string name="proj_3"><b><i>Earthlink:</i></b> An enterprise mobility solution app that uses a
+        custom calendar and a custom list-view to provide details of the entire task related
+        information for field technicians.</string>
+    <string name="proj_4"><b><i>Matexchange:</i></b> The app gives a complete list of available
+        machines, their type, available brands and lets the user rent out the machines or reserve
+        available machines. Custom list-views and a custom calendar were implemented.</string>
+    <string name="proj_5"><b><i>Onlime:</i></b> Onlime provides commercial broadband internet and
+        digital television in Moscow. The app lists various channels and shows that are being
+        telecasted. Twitter, Facebook and VK integration were implemented.</string>
+    <string name="proj_6"><b><i>Salle Pleyel:</i></b> The app lists all the concerts that take place
+        at Salle Pleyel and lets the user to book reservations for concerts.</string>
+    <string name="proj_7"><b><i>CGT:</i></b> The app provides information about CGT(General
+        Confederation of Labor) using fragments.</string>
+    <string name="proj_8"><b><i>Salon Audi:</i></b> The app lists info about the events of the Audi
+        exhibition (October, 2011) in France.</string>
+
+    <string name="academic_proj">ACADEMIC PROJECTS</string>
+    <string name="aproj_1"><b><i>Coffee Shop Management System:</i></b> The app was developer as an
+        interface for customer to place their orders at a café. The app also serves as management
+        tool for the café to keep track of their inventory and employees. The app was developed
+        using Java. The app was developed as a desktop application and as well as for Android
+        mobiles and tab. Other technologies used were JavaFX, MySql.</string>
+    <string name="aproj_2"><b><i>Library Management System:</i></b> The app basically acts as an
+        interface for a user to track his/her transactions in a library. The app was developed using
+        Python and the framework used was Django.</string>
+    <string name="aproj_3"><b><i>Social Blogging Application:</i></b> The app lets the users to
+        write posts and share them with their friends. The app was developed in Javascript. Other
+        technogies used were NodeJS, RESTApi, MongoDB.</string>
+
+    <string name="extra_curricular_activities">EXTRA CURRICULAR ACTIVITIES</string>
+    <string name="act_1">Chair, Webmaster for TedxIIT 2018</string>
+    <string name="act_2">Volunteer for TedxIIT 2017</string>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Bouvet Island</item>
+        <item>Brazil</item>
+        <item>British Indian Ocean Territory</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Island</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Cote d\'Ivoire</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>East Timor</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Faeroe Islands</item>
+        <item>Falkland Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>Former Yugoslav Republic of Macedonia</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>French Southern Territories</item>
+        <item>Gabon</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Heard Island and McDonald Islands</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Montserrat</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>Netherlands Antilles</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>Niue</item>
+        <item>Norfolk Island</item>
+        <item>North Korea</item>
+        <item>Northern Marianas</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Pitcairn Islands</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Sqo Tome and Principe</item>
+        <item>Saint Helena</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Pierre and Miquelon</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Georgia and the South Sandwich Islands</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Svalbard and Jan Mayen</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>The Bahamas</item>
+        <item>The Gambia</item>
+        <item>Togo</item>
+        <item>Tokelau</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Turks and Caicos Islands</item>
+        <item>Tuvalu</item>
+        <item>Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>United States Minor Outlying Islands</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Vatican City</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wallis and Futuna</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Yugoslavia</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+    <string name="title_activity_countries">CountriesActivity</string>
+    
+    <string name="capital">Capital</string>
+    <string name="population">Population</string>
+    <string name="area">Area</string>
+    <string name="region">Region</string>
+    <string name="sub_region">Sub-Region</string>
+    <string name="get_details_url">https://restcountries.eu/rest/v1/name/</string>
+
+</resources>
